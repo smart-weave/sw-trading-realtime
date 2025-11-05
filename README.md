@@ -1,6 +1,9 @@
 # sw-trading-realtime
 
-
+  - 명확한 책임 분리 (실시간 모니터링 vs 주문 실행)
+  - 독립적인 배포 및 스케일링
+  - Python 생태계 활용 (pandas, numpy 등)
+  - 언어별 최적화 (Python: 데이터 처리, Node.js: 서버리스)
 
 ```
   🎯 하이브리드 아키텍처
